@@ -153,3 +153,18 @@ header {
   border-radius: 0.5rem;
   font-size: 1rem;
 }
+
+.form-container form .btn {
+  flex: 1 1 7rem;
+  padding: 10px 34px;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #474FA0;
+  color: #FFF;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.form-container form .btn:hover {
+  background-color: var(--cor-principal);
+}
