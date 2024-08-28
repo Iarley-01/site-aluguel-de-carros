@@ -140,3 +140,16 @@ header {
   display: flex;
   flex-direction: column;
 }
+
+.input-box span {
+  font-weight: 500;
+}
+
+.input-box input {
+  padding: 7px;
+  outline: none;
+  border: none;
+  background-color: #eeeff1;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+}
