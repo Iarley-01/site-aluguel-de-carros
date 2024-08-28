@@ -121,3 +121,16 @@ header {
   margin-right: 1rem;
   cursor: pointer;
 }
+
+.form-container form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  position: absolute;
+  bottom: 4rem;
+  left: 100px;
+  background-color: #FFF;
+  border-radius: 0.5rem;
+  padding: 20px;
+}
