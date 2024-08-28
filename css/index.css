@@ -1,0 +1,12 @@
+html::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+html::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: var(--cor-principal);
+  border-radius: 5rem;
+}

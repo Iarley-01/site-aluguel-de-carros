@@ -9,3 +9,9 @@
   font-family: "Poppins", sans-serif;
 }
 
+:root {
+  --cor-principal: #FE5B3D;
+  --cor-secundaria: #FFAC38;
+  --cor-do-texto: #444;
+  --gradient: linear-gradient(#FE5B3D, #FFAC38);
+}
