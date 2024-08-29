@@ -189,3 +189,28 @@ header {
   gap: 1rem;
   margin-top: 2rem;
 }
+
+.ride-container .box {
+  text-align: center;
+  padding: 20px;
+}
+
+.ride-container .box .bx {
+  font-size: 34px;
+  padding: 10px;
+  background-color: #eeeff1;
+  color: var(--cor-principal);
+  border-radius: 0.5rem;
+}
+
+.ride-container .box h2 {
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin: 1.4rem 0 0.5rem;
+}
+
+.ride-container .box .bx:hover, 
+.ride-container .box .bx .bxs-calendar-star {
+  background: var(--gradient);
+  color: #FFF;
+}
