@@ -168,3 +168,16 @@ header {
 .form-container form .btn:hover {
   background-color: var(--cor-principal);
 }
+
+.heading {
+  text-align: center;
+}
+
+.heading span {
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.heading h1 {
+  font-size: 2rem;
+}
