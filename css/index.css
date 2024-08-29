@@ -181,3 +181,11 @@ header {
 .heading h1 {
   font-size: 2rem;
 }
+
+.ride-container {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(250px, auto));
+  gap: 1rem;
+  margin-top: 2rem;
+}
