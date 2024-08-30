@@ -358,3 +358,10 @@ header {
 .reviews-container .box .stars .bx {
   color: var(--cor-principal);
 }
+
+.newsletter {
+  background: linear-gradient(to top right, #FE5B3D, #FFAC38);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
