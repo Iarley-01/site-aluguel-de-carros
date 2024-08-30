@@ -365,3 +365,18 @@ header {
   flex-direction: column;
   align-items: center;
 }
+
+.newsletter h2 {
+  color: #FFF;
+  font-size: 1.8rem;
+}
+
+.newsletter .box {
+  background-color: #FFF;
+  margin-top: 1rem;
+  padding: 4px 8px;
+  border-radius: 0.5rem;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+}
