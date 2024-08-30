@@ -279,3 +279,11 @@ header {
 .services-container .box .btn:hover {
   background-color: var(--cor-principal);
 }
+
+.about-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 2rem;
+  gap: 1rem;
+  align-items: center;
+}
