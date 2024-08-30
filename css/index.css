@@ -287,3 +287,29 @@ header {
   gap: 1rem;
   align-items: center;
 }
+
+.about-img img {
+  width: 100%;
+}
+
+.about-text span {
+  font-weight: 500;
+  text-transform: uppercase;
+  color: var(--cor-principal);
+}
+
+.about-text p {
+  margin: 1rem 0 1.4rem;
+}
+
+.about-text .btn {
+  padding: 10px;
+  background-color: #474FA0;
+  color: #FFF;
+  border-radius: 0.5rem;
+  transition: .4s;
+}
+
+.about-text .btn:hover {
+  background-color: var(--cor-principal);
+}
