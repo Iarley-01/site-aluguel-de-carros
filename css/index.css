@@ -320,3 +320,16 @@ header {
   margin-top: 2rem;
   gap: 1rem;
 }
+
+.rev-img {
+  width: 70px;
+  height: 70px;
+}
+
+.rev-img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
