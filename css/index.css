@@ -409,3 +409,20 @@ header {
 .social a:hover {
   color: var(--cor-principal);
 }
+
+.footer {
+  text-align: center;
+  padding: 1rem 0;
+  background-color: var(--cor-principal);
+  color: #FFF;
+}
+
+.footer .social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer .social a:hover {
+  color: #FFF;
+}
