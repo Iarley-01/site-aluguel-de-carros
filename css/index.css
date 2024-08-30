@@ -313,3 +313,10 @@ header {
 .about-text .btn:hover {
   background-color: var(--cor-principal);
 }
+
+.reviews-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, auto));
+  margin-top: 2rem;
+  gap: 1rem;
+}
