@@ -380,3 +380,15 @@ header {
   display: flex;
   justify-content: space-between;
 }
+
+.newsletter .box input {
+  border: none;
+  outline: none;
+}
+
+.newsletter .box .btn {
+  background-color: #474FA0;
+  color: #FFF;
+  padding: 8px 20px;
+  border-radius: 0.5rem;
+}
