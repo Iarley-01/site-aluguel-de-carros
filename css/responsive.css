@@ -46,7 +46,7 @@
   
   header .navbar {
     position: absolute;
-    top: 100%;
+    top: -500px;
     left: 0;
     right: 0;
     display: flex;
@@ -57,10 +57,14 @@
     text-align: left;
   }
   
+  .navbar.active {
+    top: 100%;
+  }
+  
   .navbar a {
     padding: 1rem;
     margin: 1rem;
-    border: 2px solid var(--cor-principal);
+    border-left: 2px solid var(--cor-principal);
     display: block;
   }
   
