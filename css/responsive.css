@@ -77,4 +77,13 @@
   .navbar a::after {
     display: none;
   }
+  
+  .heading span {
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+  
+  .heading h1 {
+    font-size: 1.3rem;
+  }
 }
