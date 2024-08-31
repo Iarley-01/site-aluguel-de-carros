@@ -99,12 +99,44 @@
 }
 
 @media (max-width: 568px) {
+  .form-container {
+    padding-top: 2rem;
+  }
+  
   .copyright {
     flex-direction: column;
   }
   
   .newsletter .box {
     width: 284px;
-  }
+  } 
+  
 }
 
+@media (max-width: 350px) {
+  header {
+    padding: 6px 14px;
+  }
+  
+  .logo img {
+    width: 30px;
+  }
+  
+  section {
+    padding: 50px 14px;
+  }
+  
+  .header-btn .sign-in {
+    padding: 7px 10px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  
+  .text h1 {
+    font-size: 2rem;
+  }
+  
+  .services-container {
+    grid-template-columns: repeat(autofix, minmax(250px, auto));
+  }
+}
