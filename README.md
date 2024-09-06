@@ -7,7 +7,7 @@ Esse é um site fictício e sem fins lucrativos.
 ## 🚀 Sobre o projeto
 O projeto é um site de aluguel e carros, que possui seções como Home, Sobre, Newsletter, Feedbacks e um cabeçalho com links de navegação interna.
 
-![gif](./.github/videos/car-rental-website1.gif)
+![gif](./.github/videos/car-rental-website-1.gif)
 
 ### Screenshots do projeto
 
